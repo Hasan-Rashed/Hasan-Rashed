@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/noobmahbub/noobmahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kamrul Hasan Rashed</h1>
-<h3 align="center">¯\_(ツ)_/¯
+<h3 align="center">
 
-Programmer | Content Creator | Learner
+Programmer | Learner
 
 ?></h3>
 
