@@ -1,21 +1,15 @@
 <h1 align="center">Hi <img src="https://github.com/noobmahbub/noobmahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kamrul Hasan Rashed</h1>
-<h3 align="center">
+<h3 align="center">Programmer | Self-Learner</h3>
 
-Programmer | Learner
+- 🔭 I’m currently working on **Web Development**
 
-?></h3>
-
-- 🔭 I’m currently working on **Android Development**
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- 📫 How to reach me **hasanrashed@gmail.com**
 
 ### Connect with me:
 
