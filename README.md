@@ -54,9 +54,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasan-Rashed&show_icons=true&locale=en" alt="Kamrul Hasan Rashed" /></p>
 
 [website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
+[facebook]: https://facebook.com/HasanRashed30
 [linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
