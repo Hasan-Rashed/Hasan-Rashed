@@ -36,7 +36,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Hasan-Rashed.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hasan-Rashed&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Hasan-Rashed/github-readme-activity-graph)
+[![Rashed's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hasan-Rashed&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/Hasan-Rashed/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,4 +48,4 @@
 
 [website]: https://TechHelpBD.com
 [facebook]: https://facebook.com/HasanRashed30
-[linkedin]: https://linkedin.com/in/mahbubdev
+[linkedin]: https://linkedin.com/in/hasanrashed30
