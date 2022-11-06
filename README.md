@@ -35,11 +35,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasan-Rashed&show_icons=true&theme=radical)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Rashed)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Rashed&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Rasehd&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Rasehd&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Rasehd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
