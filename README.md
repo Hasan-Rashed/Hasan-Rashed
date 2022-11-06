@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hasanrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hasanrashed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasan-rashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-rashed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasanrashed30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanrashed30" height="30" width="40" /></a>
 <a href="https://fb.com/hasanrashed30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasanrashed30" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hasanrashed536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hasanrashed536" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@hasanrashed537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hasanrashed537" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
